@@ -1,0 +1,88 @@
+.skills {
+    padding-top: 60px;
+}
+
+.skillsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 17%;
+}
+
+.title {
+    float: left;
+    font-weight: bold;
+}
+
+.splitContainer {
+    width: 100%;
+}
+
+.skillsHeader {
+    width: 100%;
+}
+
+.skillsLeft {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.skillsLeftBody {
+    font-size: 15px;
+}
+
+.skillsLeftLeft {
+    flex: 1;
+    font-size: 16px;
+}
+
+.skillsLeftRight {
+    flex: 1;
+    font-size: 16px;
+}
+
+.skillsRight {
+    flex: 0.8;
+    margin-left: 20px;
+}
+
+.leftTitle,
+.rightTitle {
+    font-size: 20px;
+    color: grey;
+    margin-bottom: 10px;
+}
+
+.rightSkillsBody {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+.lang {
+    margin: 15px 0 15px 0;
+}
+
+.languages {
+    flex: 0.5;
+}
+
+.progress {
+    flex: 1;
+}
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.skillsLeftBodyInner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.skillTitle {
+    font-weight: bold;
+    font-size: 16px;
+}

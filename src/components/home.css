@@ -1,0 +1,45 @@
+.home {
+    height: 100vh;
+}
+
+.homeContainer {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#profilePic {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    
+}
+
+.name {
+    font-size: 50px;
+    font-family: poppins;
+}
+
+.icons {
+    width: 40px;
+    border-radius: 5px;
+}
+
+.links {
+    width: 10%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.subtitle {
+    color: grey;
+}

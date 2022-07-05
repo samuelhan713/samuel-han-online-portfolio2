@@ -1,0 +1,36 @@
+.footer {
+    height: 10vh;
+    margin-top: 60px;
+}
+
+.footerContainer {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 220px 0 220px;
+}
+
+.footerEmail,
+.footerPhone {
+    display: flex;
+    align-items: center;
+}
+
+#phone {
+    width: 20px;
+    margin-right: 10px;
+}
+
+#email {
+    width: 25px;
+    margin-right: 5px;
+}
+
+.pLanguages {
+    padding-right: 10px;
+}
+
+.skillsTitle {
+    font-weight: bold;
+}

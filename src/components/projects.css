@@ -1,0 +1,98 @@
+.projects {
+    /* height: 100vh; */
+    /* background-color: lightblue; */
+    padding-top: 60px;
+}
+
+.projectsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 17%;
+}
+
+.title {
+    float: left;
+}
+
+.projectsHeader {
+    width: 100%;
+}
+
+.projectName {
+    width: 45%;
+    margin-bottom: 20px;
+    border: solid black;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.pacmanHeader,
+.dayLoggerHeader,
+.snakeHeader,
+.notesHeader {
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.pacmanBody,
+.snakeBody {
+    display: flex;
+    flex-direction: column;
+}
+
+.dayLoggerBody,
+.notesBody,
+.pacmanBody,
+.snakeBody {
+    margin-bottom: 70px;
+}
+
+h3 {
+    margin: 10px 0 10px 0;
+}
+
+.tools {
+    color: rgb(93, 88, 88);
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+
+.projectLink {
+    margin: 15px 0 15px 0;
+    background-color: white;
+    border: solid black;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+#pacman {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+#dayLogger {
+    width: 27px;
+}
+
+#snake,
+#notes {
+    width: 25px;
+    margin-left: 10px;
+}
+
+.projectsInnerContainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+
+}
+
+.projectFooter {
+    position: absolute;
+    bottom: 0;
+}

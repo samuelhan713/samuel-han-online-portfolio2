@@ -1,0 +1,37 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.topbar {
+    height: 4vh;
+    width: 100%;
+    background-color: rgb(77, 78, 81);
+    position: fixed;
+    padding: 5px;
+    z-index: 9;
+}
+
+.topbarContainer {
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+a {
+    color: white;
+}
+
+#mainName {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.topbarLeft {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    margin-left: 30px;
+}

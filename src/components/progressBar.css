@@ -1,0 +1,11 @@
+.progressbar {
+    height: 20px;
+    width: 100%;
+    background-color: "e0e0de";
+    margin: 15px 0 15px 0;
+}
+
+.labelstyle {
+    color: white;
+    margin-right: 5px;
+}
