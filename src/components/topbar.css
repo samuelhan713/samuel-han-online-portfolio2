@@ -36,8 +36,14 @@ a {
     margin-left: 30px;
 }
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 500px) {
+    .topbarLeft {
+        font-size: 10px;
+    }
     .topbarContainer {
-        width: 90%;
+        width: 60%;
+    }
+    .links {
+        width: 30%;
     }
 }
