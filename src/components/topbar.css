@@ -41,9 +41,12 @@ a {
         font-size: 10px;
     }
     .topbarContainer {
-        width: 60%;
+        width: 95%;
     }
     .links {
         width: 30%;
+    }
+    .topbar {
+        position: fixed;
     }
 }

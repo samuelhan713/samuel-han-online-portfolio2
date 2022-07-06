@@ -105,7 +105,12 @@ li {
     color: blue;
 }
 
-/* .educationParagraph {
-    display: flex;
-    flex-direction: column;
-} */
+@media all and (max-width: 500px) {
+    .aboutmeContainer {
+
+    }
+    .splitContainer {
+        flex-direction: column;
+    }
+
+}
