@@ -31,7 +31,7 @@
     font-weight: bold;
 }
 
-hr {
+.hr {
     display: none;
 }
 
@@ -58,7 +58,7 @@ hr {
         margin-bottom: 10px;
     }
 
-    hr {
+    .hr {
         display: block;
         width: 5%;
     }
