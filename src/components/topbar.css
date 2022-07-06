@@ -35,3 +35,9 @@ a {
     font-size: 13px;
     margin-left: 30px;
 }
+
+@media all and (max-width: 400px) {
+    .topbarContainer {
+        width: 90%;
+    }
+}
