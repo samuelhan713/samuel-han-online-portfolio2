@@ -17,7 +17,7 @@ function Experience() {
                                 <div className='listHeader'>
                                     <h1>Matchbox Technologies Inc.</h1>
                                     <div className='date'>
-                                        February 2019
+                                        2/2019 ~ 8/2019
                                     </div>
                                 </div>
                                 <p>Supported Matchbox's partnership roll out with Lawson convenience store by working with UI/UX developers to enhance the app's design/functionality</p>
@@ -28,7 +28,7 @@ function Experience() {
                                 <div className='listHeader'>
                                     <h1>Hackathon</h1>
                                     <div className='date'>
-                                        April 2022
+                                        4/2022
                                     </div>
                                 </div>
                                 <p>Planned and developed a working web application with 3 other teammates within 24 hours and presented it to a crowd and a panel of judges (HTML, CSS, JavaScript)</p>
@@ -39,7 +39,7 @@ function Experience() {
                                 <div className='listHeader'>
                                     <h1>Teaching Assistant</h1>
                                     <div className='date'>
-                                        TA date
+                                        8/2021 ~ 12/2021
                                     </div>
                                 </div>
                                 <p>- Assisted professor for computer science major class “Object Oriented Programming”</p>
