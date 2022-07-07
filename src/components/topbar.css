@@ -41,7 +41,7 @@ a {
         font-size: 10px;
     }
     .topbarContainer {
-        width: 90%;
+        width: 100%; /* changes here */
     }
     .links {
         width: 30%;
