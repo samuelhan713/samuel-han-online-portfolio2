@@ -137,7 +137,7 @@ hr {
 
 @media all and (max-width: 500px) {
     .bar>li:after {
-        height: 62%;
+        height: 61%;
         /* bottom: 50px; */
     }
     .bar>li:first-of-type:after {
