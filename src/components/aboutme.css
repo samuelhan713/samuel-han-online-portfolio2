@@ -112,9 +112,6 @@ li {
         justify-content: center;
     }
 
-    .aboutmeContainer {
-
-    }
     .splitContainer {
         flex-direction: column;
         font-size: 15px;

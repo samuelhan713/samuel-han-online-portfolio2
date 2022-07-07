@@ -134,3 +134,14 @@ hr {
 .bar>li:last-of-type:after {
     top: -50%;
 }
+
+@media all and (max-width: 500px) {
+    .bar>li:after {
+        height: 64%;
+        bottom: 50px;
+    }
+    .bar>li:first-of-type:after {
+        height: 100%;
+        top: 15%;
+    }
+}
