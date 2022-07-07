@@ -86,3 +86,14 @@
     font-weight: bold;
     font-size: 16px;
 }
+
+
+@media all and (max-width: 600px) {
+    .skillsRight {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .skill {
+        font-size: 13px;
+    }
+}

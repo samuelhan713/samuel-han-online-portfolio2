@@ -33,7 +33,7 @@ function Experience() {
                                 </div>
                                 <p>Planned and developed a working web application with 3 other teammates within 24 hours and presented it to a crowd and a panel of judges (HTML, CSS, JavaScript)</p>
                             </div>
-                        </li>
+                        </li> 
                         <li id='lastExp'>
                             <div className='timeline-content'>
                                 <div className='listHeader'>
